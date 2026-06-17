@@ -1,8 +1,9 @@
 <h1 align="center">🌊 Hi! I'm Jeongwon Lee 🌊</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Data+Anylist+%7C+AI+Engineer+%7C+Data+Engineer+%7C+GIS+%2B+AI;Physics-Informed+AI+%26+Graph+Neural+Networks;Spatial+Analysis+and+Interactive+Dashboards;Turning+Data+into+Real-World+Impact" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=720&lines=Data+Analyst+%7C+AI+Engineer+%7C+Data+Engineer+%7C+GIS+%2B+AI;Physics-Informed+AI+%26+Graph+Neural+Networks;Spatial+Analysis+and+Interactive+Dashboards;Turning+Data+into+Real-World+Impact" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="mailto:leewon12381@gmail.com">
@@ -51,7 +52,7 @@
 
 ---
 
-## Summary :grey_exclamation:
+### Summary :grey_exclamation:
 
 > **Geospatial Data Scientist | GIS · Spatial AI · Data Analysis**
 >
@@ -63,7 +64,7 @@
 
 ---
 
-## Featured Projects ⭐
+### Featured Projects ⭐
 
 | Project | Focus | Stack | Link |
 | ------- | ----- | ----- | ---- |
@@ -74,7 +75,7 @@
 
 ---
 
-## Skills 🛠️
+### Skills 🛠️
 
 **Programming Languages** <br>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
@@ -125,9 +126,9 @@
 
 ---
 
-## Career :briefcase:
+### Career :briefcase:
 
-### 🚓 경찰청 (2024.05 ~ 2024.12)
+#### 🚓 경찰청 (2024.05 ~ 2024.12)
 **근무 부서 및 형태**: 교통안전과 · 인턴
 **담당 업무**:
 - 교통경찰업무관리시스템(TCS) 사고 원자료 SQL 추출 및 Python 기반 전처리 자동화 파이프라인 구축
@@ -137,18 +138,18 @@
 ---
 
 
-## Awards 🏆
+### Awards 🏆
 
 | 수상명 | 대회 / 기관 | 날짜 |
 | :---: | :--- | :---: |
+| **최우수상** | 여수시 공공데이터 섬 박람회 아이디어 공모전 (도동실) | 2026.05 |
 | **환경부장관상 (최우수상)** | 2025 대국민 지하수 빅데이터 공모전 (IPAP) | 2025.09 |
-| **최우수상** | 여수시 공공데이터 섬 박람회 아이디어 공모전 (도동실) | 2026 |
-| **표창장** | 전국 교통사고 데이터 추출 및 통계 분석 우수 (경찰청) | 2024.12 |
+| **표창장** | 전국 교통사고 빅데이터 분석 우수 (경찰청) | 2024.12 |
 | **우수상** | 통계교육지원단 영상 공모전 (통계청) | 2024.12 |
 
 ---
 
-## Study :books:
+### Study :books:
 
 - **AI 모델링 및 신경망 밑바닥부터 구현**: NumPy를 활용하여 순전파와 역전파 흐름을 코드로 작성하며 딥러닝의 핵심 원리(손실함수, 최적화 기법 등)를 체계적으로 이해
 - **비전 AI 모델 튜닝**: 학습한 데이터 증강 기법과 손실함수 조정 원리를 화성시 AI 공모전 YOLOv8 모델(클래스 불균형 문제 해결)에 즉시 적용하여 탐지 정확도 15% 향상
