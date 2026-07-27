@@ -22,33 +22,6 @@
   -->
 </p>
 
-<p align="center">
-  <!-- GitHub Stats (등급/랭크 숨김) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=JeongWon4034&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeongWon4034&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeongWon4034&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- Contribution Activity Graph (잔디 / 컨트리뷰션 캘린더) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeongWon4034&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <!-- Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=JeongWon4034&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophy" />
-</p>
-
-<p align="center">
-  <!-- Snake contribution (셋업 안내는 SETUP_GUIDE.md 참고 / 안 쓰면 이 블록 삭제) -->
-  <img src="https://raw.githubusercontent.com/JeongWon4034/JeongWon4034/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
 
 ---
 
@@ -66,12 +39,16 @@
 
 ### Featured Projects ⭐
 
+
 | Project | Focus | Stack | Link |
 | ------- | ----- | ----- | ---- |
 | **도동실 (해양쓰레기 예측)** | MOHID 입자추적 + GAT/LSTM **Grey-box** 모델로 여수 다도해 335개 섬 쓰레기 유입 예측, **최우수상 수상** | Python, PyTorch, PyG(GAT), QGIS, GeoPandas, Streamlit | [Repo](https://github.com/JeongWon4034/yeosu) |
 | **IPAP (지하수 오염원 분석)** | 수리모델링(MODFLOW)+GNN 하이브리드로 오염원 `Where→Origin→Who` 3단계 규명, **환경부장관상(최우수상)** | Python, PyTorch, Flopy/MODFLOW, GNN, Scikit-learn, React | [Repo](https://github.com/JeongWon4034/underwater) |
+| **바로팜 (BaroFarm)** | 산지 직거래 신선식품 마켓 + 마감임박 상품 AI 폐기예측·동적 떨이가 예측  |Java, Spring Boot, MyBatis, Vue, MySQL, Python, OpenAI, Docker | [Repo](https://github.com/JeongWon4034/BaroFarm) |
 | **전세사기 위험 분석 (수원시)** | 10만 건 실거래 데이터로 전세가율 위험 매물 지도 시각화 + GPT-3.5 위험 시나리오 해석 | Python, Pandas, Folium, Plotly, OpenAI, Streamlit | [Repo](https://github.com/JeongWon4034/rent_risk) |
 | **청풍로드 (관광 가이드)** | OSMNX 위상 도로 네트워크 분석 + Mapbox 경로 최적화 + GPT 컨텍스트 가이드의 E2E 공간 데이터 서비스 | Python, QGIS, GeoPandas, OSMNX, Mapbox, GPT-3.5, Streamlit | [Repo](https://github.com/JeongWon4034/cheongju) |
+
+
 
 ---
 
@@ -79,19 +56,25 @@
 
 **Programming Languages** <br>
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 
-**Data Analysis & ML** <br>
+**Data Analysis** <br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white"/>
+
+**Machine Learning & AI** <br>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyG_(GNN)-3C2179?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-F9AB00?style=flat-square&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FFD700?style=flat-square&logoColor=black"/>
 
 **Geospatial & Modeling** <br>
 <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white"/>
@@ -104,6 +87,7 @@
 <img src="https://img.shields.io/badge/MOHID-005F87?style=flat-square"/>
 
 **Visualization & Dashboard** <br>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
@@ -111,29 +95,42 @@
 <img src="https://img.shields.io/badge/Mapbox-4264fb?style=flat-square&logo=mapbox&logoColor=white"/>
 <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
 
-**AI / LLM & Web** <br>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-FFD700?style=flat-square&logoColor=black"/>
+**Web Development** <br>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
 
 **Data Engineering & Tools** <br>
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white"/>
 
+**Cloud, OS & Databases** <br>
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+**IDE & Collaboration** <br>
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 ---
 
 ### Career :briefcase:
 
 #### 🚓 경찰청 (2024.05 ~ 2024.12)
-**근무 부서 및 형태**: 교통안전과 · 인턴
+**근무 부서 및 형태**: 생활안전교통국 · 인턴
+
 **담당 업무**:
-- 교통경찰업무관리시스템(TCS) 사고 원자료 SQL 추출 및 Python 기반 전처리 자동화 파이프라인 구축
-- 데이터 자동 검증 규칙 설계 및 일별·월별 교통사고 정제 통계 전국 단위 보도자료 반영
-- 2024년 교통사고 사망자 감소 대책 프로젝트 탐여 및 이륜차 사고 다발 구간 빅데이터 분석
+- 교통사고 빅데이터 분석 ( Python과 MySQL 기반의 대용량 교통 데이터 분석과 업무 자동화 수행 )
+- 데이터 자동 검증 규칙 설계 및 일별·월별 교통사고 분석 보고서 작성, 전국 보도자료 반영
+- 2024년 교통사고 사망자 감소 대책 프로젝트 참여 및 이륜차 사고 다발 구간 빅데이터 분석
+- 국제치안산업대전 신호제어기 시범사업 운영 지원 및 외국인 안내 전담
 
 ---
 
